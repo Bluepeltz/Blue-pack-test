@@ -29,9 +29,9 @@
                 }
 
                 "description" : "A cool one.",
-                "images" : [ {
+                "images" :  {
                     "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853539242145/2023_01_02_0v2_Kleki_2.png?width=652&height=670"
-                        ]
+                        
                 }
             }
 
@@ -43,9 +43,9 @@
                 }
 
                 "description" : "A hermit one.",
-                "images" : [ {
+                "images" :  {
                     "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854063525888/2023_01_02_0vx_Kleki_1.png?width=647&height=670"
-                        ]
+                        
                 }
             }
 
@@ -57,9 +57,9 @@
                 }
 
                 "description" : "An eldritch one.",
-                "images" : [ {
+                "images" :  {
                     "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854499749978/fwojewfeojweoi.PNG?width=478&height=517"
-                        ]
+                        
                 }
             }
 
@@ -71,9 +71,9 @@
                 }
 
                 "description" : "A faceless one.",
-                "images" : [ {
+                "images" :  {
                     "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854772367440/oeiwfjoweijoweij.PNG?width=292&height=305"
-                        ]
+                        
                 }
             }
 
@@ -85,9 +85,9 @@
                 }
 
                 "description" : "A green horned one.",
-                "images" : [ {
+                "images" :  {
                     "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845852822016020/sketch-1672657566514_2_1.png?width=502&height=670"
-                        ]
+                        
                 }
             }
 
@@ -99,9 +99,9 @@
                 }
 
                 "description" : "A birdy one.",
-                "images" : [ {
+                "images" :  {
                     "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853069475840/sketch-1672658121320_2_1.png?width=607&height=670"
-                        ]
+                        
                 }
             }
 
@@ -113,9 +113,9 @@
                 }
 
                 "description" : "A cultured one.",
-                "images" : [ {
+                "images" :  {
                     "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853316956241/sketch-1672691056640_2.png?width=482&height=670"
-                        ]
+                        
                 }
             }
         } ]
