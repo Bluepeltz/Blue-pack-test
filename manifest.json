@@ -8,7 +8,9 @@
 			{
 
 				"id": "1",
-				"name": "Bluepelt",
+				"name": {
+					"english": "Bluepelt"
+				},
 
 				"description": "A confused one.",
 				"images": {
@@ -20,8 +22,9 @@
 			{
 
 				"id": "2",
-				"name": "EbonyBane",
-
+				"name": {
+					"english": "EbonyBane"
+				},
 				"description": "A cool one.",
 				"images": {
 					"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853539242145/2023_01_02_0v2_Kleki_2.png?width=652&height=670"
@@ -32,7 +35,9 @@
 			{
 
 				"id": "3",
-				"name": "BaredFang",
+				"name": {
+					"english": "BaredFang"
+				},
 
 				"description": "A hermit one.",
 				"images": {
@@ -44,7 +49,9 @@
 			{
 
 				"id": "4",
-				"name": "EldritchElia",
+				"name": {
+					"english": "EldritchElia"
+				},
 
 				"description": "An eldritch one.",
 				"images": {
@@ -56,7 +63,9 @@
 			{
 
 				"id": "5",
-				"name": "RebelPhantum",
+				"name": {
+					"english": "RebelPhantum"
+				},
 
 				"description": "A faceless one.",
 				"images": {
@@ -67,8 +76,11 @@
 
 			{
 
-				"id": "5",
-				"name": "EmpressPrimrose",
+				"id": "6",
+				"name": {
+					"english": "EmpressPrimrose"
+				},
+
 
 				"description": "A green horned one.",
 				"images": {
@@ -79,8 +91,11 @@
 
 			{
 
-				"id": "6",
-				"name": "Plaguedoctr",
+				"id": "7",
+				"name": {
+					"english": "Plaguedoctr"
+				},
+
 
 
 				"description": "A birdy one.",
@@ -92,8 +107,13 @@
 
 			{
 
-				"id": "7",
-				"name": "CYNDI4U",
+				"id": "8",
+				"name": {
+
+					"english": "CYNDI4U"
+				},
+
+
 
 
 				"description": "A cultured one.",
