@@ -1,0 +1,93 @@
+{
+  "$schema": "https://fable.deno.dev/schema.json",
+  "id": "my-awesome-pack",
+  "title": "My Awesome Pack",
+  "description": "This is my awesome pack that contains a variety of media and characters.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "John Doe",
+      "url": "https://example.com",
+      "email": "john.doe@example.com"
+    }
+  ],
+  "homepage": "https://example.com/my-awesome-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myusername/my-awesome-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myusername/my-awesome-pack/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "media",
+    "characters",
+    "anime",
+    "manga",
+    "video games",
+    "football leagues",
+    "boy bands"
+  ],
+  "media": {
+    "new": [
+      {
+        "id": "my-media",
+        "title": "My Media",
+        "description": "This is my media that I'm adding to the pack.",
+        "images": [
+          {
+            "url": "https://example.com/my-media.jpg",
+            "type": "cover"
+          }
+        ],
+        "trailer": {
+          "url": "https://example.com/my-media-trailer.mp4",
+          "type": "mp4"
+        },
+        "externalLinks": [
+          {
+            "name": "Official Website",
+            "url": "https://example.com/my-media"
+          }
+        ]
+      }
+    ],
+    "conflicts": [
+      "another-pack:conflicted-media"
+    ]
+  },
+  "characters": {
+    "new": [
+      {
+        "id": "my-character",
+        "name": {
+          "en": "My Character",
+          "jp": "私のキャラクター"
+        },
+        "description": "This is my character that I'm adding to the pack.",
+        "popularity": 100,
+        "gender": "male",
+        "age": "25",
+        "images": [
+          {
+            "url": "https://example.com/my-character.jpg",
+            "type": "portrait"
+          }
+        ],
+        "externalLinks": [
+          {
+            "name": "Official Website",
+            "url": "https://example.com/my-character"
+          }
+        ],
+        "media": [
+          "my-media"
+        ]
+      }
+    ],
+    "conflicts": [
+      "another-pack:conflicted-character"
+    ]
+  }
+}
