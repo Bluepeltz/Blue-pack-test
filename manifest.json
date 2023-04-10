@@ -1,96 +1,122 @@
 {
- "id" : "blue-artstyle-thegarden",
- "title" : "Blue Art style of The Garden" ,
-  "characters": {
-  "new"; {
-  {
-  "id": "1",
-  "name": {
-  "english" : "Bluepelt",
-}
-"description" : "A confused one.",
-"images" : [{
-"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845852566159490/sketch-1672653358622_2_1.jpg?width=433&height=670"
-]}
 
-}
- {
-  "id": "2",
-  "name": {
-  "english" : "EbonyBane",
-}
-"description" : "A cool one.",
-"images" : [{
-"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853539242145/2023_01_02_0v2_Kleki_2.png?width=652&height=670"
-]}
+    "id" : "blue-artstyle-thegarden",
+    "title" : "Blue Art style of The Garden",
+    "characters": {
+        "new";
 
-}
-{
-  "id": "3",
-  "name": {
-  "english" : "BaredFang",
-}
-"description" : "A hermit one.",
-"images" : [{
-"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854063525888/2023_01_02_0vx_Kleki_1.png?width=647&height=670"
-]}
+            {
+                {
 
-}
-{
-  "id": "4",
-  "name": {
-  "english" : "EldritchElia",
-}
-"description" : "An eldritch one.",
-"images" : [{
-"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854499749978/fwojewfeojweoi.PNG?width=478&height=517"
-]}
+                "id": "1",
+                "name": {
+                    "english": "Bluepelt",
+                }
 
-}
-{
-  "id": "5",
-  "name": {
-  "english" : "RebelPhantum",
-}
-"description" : "A faceless one.",
-"images" : [{
-"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854772367440/oeiwfjoweijoweij.PNG?width=292&height=305"
-]}
+                "description" : "A confused one.",
+                "images" : [ {
+                    "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845852566159490/sketch-1672653358622_2_1.jpg?width=433&height=670"
+                        ]
+                }
+            }
 
-}
-{
-  "id": "5",
-  "name": {
-  "english" : "EmpressPrimrose",
-}
-"description" : "A green horned one.",
-"images" : [{
-"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845852822016020/sketch-1672657566514_2_1.png?width=502&height=670"
-]}
+                {
 
-}
-{
-  "id": "6",
-  "name": {
-  "english" : "Plaguedoctr",
-}
-"description" : "A birdy one.",
-"images" : [{
-"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853069475840/sketch-1672658121320_2_1.png?width=607&height=670"
-]}
+                "id": "2",
+                "name": {
+                    "english": "EbonyBane",
+                }
 
-}
-{
-  "id": "7",
-  "name": {
-  "english" : "CYNDI4U",
-}
-"description" : "A cultured one.",
-"images" : [{
-"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853316956241/sketch-1672691056640_2.png?width=482&height=670"
-]}
+                "description" : "A cool one.",
+                "images" : [ {
+                    "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853539242145/2023_01_02_0v2_Kleki_2.png?width=652&height=670"
+                        ]
+                }
+            }
 
+                {
+
+                "id": "3",
+                "name": {
+                    "english": "BaredFang",
+                }
+
+                "description" : "A hermit one.",
+                "images" : [ {
+                    "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854063525888/2023_01_02_0vx_Kleki_1.png?width=647&height=670"
+                        ]
+                }
+            }
+
+                {
+
+                "id": "4",
+                "name": {
+                    "english": "EldritchElia",
+                }
+
+                "description" : "An eldritch one.",
+                "images" : [ {
+                    "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854499749978/fwojewfeojweoi.PNG?width=478&height=517"
+                        ]
+                }
+            }
+
+                {
+
+                "id": "5",
+                "name": {
+                    "english": "RebelPhantum",
+                }
+
+                "description" : "A faceless one.",
+                "images" : [ {
+                    "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854772367440/oeiwfjoweijoweij.PNG?width=292&height=305"
+                        ]
+                }
+            }
+
+                {
+
+                "id": "5",
+                "name": {
+                    "english": "EmpressPrimrose",
+                }
+
+                "description" : "A green horned one.",
+                "images" : [ {
+                    "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845852822016020/sketch-1672657566514_2_1.png?width=502&height=670"
+                        ]
+                }
+            }
+
+                {
+
+                "id": "6",
+                "name": {
+                    "english": "Plaguedoctr",
+                }
+
+                "description" : "A birdy one.",
+                "images" : [ {
+                    "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853069475840/sketch-1672658121320_2_1.png?width=607&height=670"
+                        ]
+                }
+            }
+
+                {
+
+                "id": "7",
+                "name": {
+                    "english": "CYNDI4U",
+                }
+
+                "description" : "A cultured one.",
+                "images" : [ {
+                    "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853316956241/sketch-1672691056640_2.png?width=482&height=670"
+                        ]
+                }
+            }
+        }
+    }
 }
- }
-  }
-  }
