@@ -1,92 +1,94 @@
-
 {
-"$schema": "https://fable.deno.dev/schema.json",
-"id": "garden-character-pack",
-"title": "The Garden Character Pack",
-"description": "A collection of characters from The Garden server.",
-"authors": [
-{
-"name": "Your Name",
-"url": "https://example.com"
+ "id" : blue-artstyle-thegarden",
+ "title" :Blue Art style of The Garden" ,
+  "characters": [{
+  "new"; [
+  {
+  "id": "1",
+  "name": {
+  "english" : "Bluepelt",
 }
-],
-"characters": {
-"new": [
-{
-"id": "elia",
-"name": "Elia",
-"images": {
-"thumbnail": "https://example.com/elia-thumbnail.png",
-"full": "https://example.com/elia-full.png"
-},
-"description": "A powerful sorceress who wields magic to protect The Garden.",
-"externalLinks": {
-"twitter": "https://twitter.com/elia"
-}
-},
-{
-"id": "bluelink",
-"name": "Bluelink",
-"images": {
-"thumbnail": "https://example.com/bluelink-thumbnail.png",
-"full": "https://example.com/bluelink-full.png"
-},
-"description": "A skilled hacker who keeps The Garden's systems secure.",
-"externalLinks": {
-"twitch": "https://twitch.tv/bluelink"
-}
-},
-{
-"id": "ebonybane",
-"name": "EbonyBane",
-"images": {
-"thumbnail": "https://example.com/ebonybane-thumbnail.png",
-"full": "https://example.com/ebonybane-full.png"
-},
-"description": "A fierce warrior who defends The Garden from its enemies.",
-"externalLinks": {
-"youtube": "https://youtube.com/ebonybane"
-}
-},
-{
-"id": "phantom",
-"name": "Phantom",
-"images": {
-"thumbnail": "https://example.com/phantom-thumbnail.png",
-"full": "https://example.com/phantom-full.png"
-},
-"description": "A mysterious figure who lurks in the shadows of The Garden.",
-"externalLinks": {}
-},
-{
-"id": "bluepelt",
-"name": "Bluepelt",
-"images": {
-"thumbnail": "https://example.com/bluepelt-thumbnail.png",
-"full": "https://example.com/bluepelt-full.png"
-},
-"description": "A loyal companion who follows Elia wherever she goes.",
-"externalLinks": {}
-},
-{
-"id": "baredfang",
-"name": "BaredFang",
-"images": {
-"thumbnail": "https://example.com/baredfang-thumbnail.png",
-"full": "https://example.com/baredfang-full.png"
-},
-"description": "A shapeshifting creature who can take on the form of any animal.",
-"externalLinks": {}
-},
-{
-"id": "plaguedoctor",
-"name": "Plaguedoctor",
-"images": {
-"thumbnail": "https://example.com/plaguedoctor-thumbnail.png",
-"full": "https://example.com/plaguedoctor-full.png"
-},
-"description": "A healer who uses their knowledge of medicine to aid The Garden.",
-"
+"description" : "A confused one.",
+"images" : [{
+"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845852566159490/sketch-1672653358622_2_1.jpg?width=433&height=670"
+]}
 
+}
+ {
+  "id": "2",
+  "name": {
+  "english" : "EbonyBane",
+}
+"description" : "A cool one.",
+"images" : [{
+"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853539242145/2023_01_02_0v2_Kleki_2.png?width=652&height=670"
+]}
 
+}
+{
+  "id": "3",
+  "name": {
+  "english" : "BaredFang",
+}
+"description" : "A hermit one.",
+"images" : [{
+"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854063525888/2023_01_02_0vx_Kleki_1.png?width=647&height=670"
+]}
 
+}
+{
+  "id": "4",
+  "name": {
+  "english" : "EldritchElia",
+}
+"description" : "An eldritch one.",
+"images" : [{
+"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854499749978/fwojewfeojweoi.PNG?width=478&height=517"
+]}
+
+}
+{
+  "id": "5",
+  "name": {
+  "english" : "RebelPhantum",
+}
+"description" : "A faceless one.",
+"images" : [{
+"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845854772367440/oeiwfjoweijoweij.PNG?width=292&height=305"
+]}
+
+}
+{
+  "id": "5",
+  "name": {
+  "english" : "EmpressPrimrose",
+}
+"description" : "A green horned one.",
+"images" : [{
+"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845852822016020/sketch-1672657566514_2_1.png?width=502&height=670"
+]}
+
+}
+{
+  "id": "6",
+  "name": {
+  "english" : "Plaguedoctr",
+}
+"description" : "A birdy one.",
+"images" : [{
+"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853069475840/sketch-1672658121320_2_1.png?width=607&height=670"
+]}
+
+}
+{
+  "id": "7",
+  "name": {
+  "english" : "CYNDI4U",
+}
+"description" : "A cultured one.",
+"images" : [{
+"url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853316956241/sketch-1672691056640_2.png?width=482&height=670"
+]}
+
+}]]
+ }
