@@ -1,1 +1,92 @@
 
+{
+"$schema": "https://fable.deno.dev/schema.json",
+"id": "garden-character-pack",
+"title": "The Garden Character Pack",
+"description": "A collection of characters from The Garden server.",
+"authors": [
+{
+"name": "Your Name",
+"url": "https://example.com"
+}
+],
+"characters": {
+"new": [
+{
+"id": "elia",
+"name": "Elia",
+"images": {
+"thumbnail": "https://example.com/elia-thumbnail.png",
+"full": "https://example.com/elia-full.png"
+},
+"description": "A powerful sorceress who wields magic to protect The Garden.",
+"externalLinks": {
+"twitter": "https://twitter.com/elia"
+}
+},
+{
+"id": "bluelink",
+"name": "Bluelink",
+"images": {
+"thumbnail": "https://example.com/bluelink-thumbnail.png",
+"full": "https://example.com/bluelink-full.png"
+},
+"description": "A skilled hacker who keeps The Garden's systems secure.",
+"externalLinks": {
+"twitch": "https://twitch.tv/bluelink"
+}
+},
+{
+"id": "ebonybane",
+"name": "EbonyBane",
+"images": {
+"thumbnail": "https://example.com/ebonybane-thumbnail.png",
+"full": "https://example.com/ebonybane-full.png"
+},
+"description": "A fierce warrior who defends The Garden from its enemies.",
+"externalLinks": {
+"youtube": "https://youtube.com/ebonybane"
+}
+},
+{
+"id": "phantom",
+"name": "Phantom",
+"images": {
+"thumbnail": "https://example.com/phantom-thumbnail.png",
+"full": "https://example.com/phantom-full.png"
+},
+"description": "A mysterious figure who lurks in the shadows of The Garden.",
+"externalLinks": {}
+},
+{
+"id": "bluepelt",
+"name": "Bluepelt",
+"images": {
+"thumbnail": "https://example.com/bluepelt-thumbnail.png",
+"full": "https://example.com/bluepelt-full.png"
+},
+"description": "A loyal companion who follows Elia wherever she goes.",
+"externalLinks": {}
+},
+{
+"id": "baredfang",
+"name": "BaredFang",
+"images": {
+"thumbnail": "https://example.com/baredfang-thumbnail.png",
+"full": "https://example.com/baredfang-full.png"
+},
+"description": "A shapeshifting creature who can take on the form of any animal.",
+"externalLinks": {}
+},
+{
+"id": "plaguedoctor",
+"name": "Plaguedoctor",
+"images": {
+"thumbnail": "https://example.com/plaguedoctor-thumbnail.png",
+"full": "https://example.com/plaguedoctor-full.png"
+},
+"description": "A healer who uses their knowledge of medicine to aid The Garden.",
+"
+
+
+
