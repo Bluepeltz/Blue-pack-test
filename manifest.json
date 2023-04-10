@@ -15,9 +15,9 @@
                 }
 
                 "description" : "A confused one.",
-                "images" : [ {
+                "images" :  {
                     "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845852566159490/sketch-1672653358622_2_1.jpg?width=433&height=670"
-                        ]
+                        
                 }
             }
 
