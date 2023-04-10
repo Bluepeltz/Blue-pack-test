@@ -1,7 +1,7 @@
 {
  "id" : "blue-artstyle-thegarden",
  "title" : "Blue Art style of The Garden" ,
-  "characters": [{
+  "characters": {
   "new"; [
   {
   "id": "1",
@@ -90,5 +90,5 @@
 "url": "https://media.discordapp.net/attachments/1004511460065554452/1094845853316956241/sketch-1672691056640_2.png?width=482&height=670"
 ]}
 
-}]]
+}]
  }
